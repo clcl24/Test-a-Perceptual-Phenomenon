@@ -3,4 +3,4 @@ a statistical test to analyze the Stroop effect, a classic result of experimenta
 
 \*\_statistical_test_stroop_effect.pdf - the report
 
-\*\_stroop
+\*\_stroopdata.csv - the orininal data
